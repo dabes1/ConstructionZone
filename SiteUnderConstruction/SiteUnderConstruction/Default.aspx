@@ -9,9 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <div style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align:center;">
+        <div style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align:center;">
             <h1>DAbes Global.com</h1>
-            <h2>WEBSITE CONSTRUCTION ZONE!!!</h2>
+            <label id="Lbl" runat="server"></label>
         </div>
 
         <div style="text-align:center">

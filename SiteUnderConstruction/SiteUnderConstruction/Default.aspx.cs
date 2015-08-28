@@ -11,7 +11,7 @@ namespace SiteUnderConstruction
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Lbl.InnerText = SQLAccess.GetDesc();
         }
     }
 }
